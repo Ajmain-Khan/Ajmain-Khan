@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/ajmain-khan/">
-        <img src="https://img.shields.io/badge/-LinkedIn%20|%20in/ajmain&#8208khan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajmain-khan/" height="28" alt="Linkedin" style="margin-right: 5px;"/>
+        <img src="https://img.shields.io/badge/-LinkedIn%20|%20in/ajmain&#8208khan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajmain-khan/" height="28" alt="Linkedin"/>
     </a>
-    <a href="https://www.linkedin.com/in/ajmain-khan/">
-        <img src="https://img.shields.io/badge/-Gmail | ark.ajmain@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ark.ajmain@gmail.com" height="28" alt="Email"/>
+    <a href="mailto:ark.ajmain@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail | ark.ajmain@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white" height="28" alt="Email"/>
     </a>
 </div>
 <img  src="assets/seperator.gif">
@@ -38,9 +38,10 @@ Here are some ideas to get you started:
 <h2 align="center"> Passionate Aspiring Software Engineer</h2>
 
 <p align="center">
-<b>
-Hey! I'm currently looking for an Internship position! Check out my resume.
-</b>
+    <b>
+        Hey! I'm currently looking for an Internship position! Check out my
+        <a href="https://drive.google.com/file/d/1tcKZw6DO7ifCIVrMWJsDt0Q_WyUhB6d9/view?usp=sharing">Resume</a>
+    </b>
 </p>
 
 ##### I like to work with Python, JavaScript, Java, C#, and Vue.js, but thanks to my curiosity I'm always trying new tech stacks. I have strong technical skills and an academic background in computer science topics: object-oriented programming, data structures & algorithms, testing, and automation. Right now I'm exploring front-end technologies, parallel computing, and Machine Learning.
