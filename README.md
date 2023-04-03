@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ajmain-Khan&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> -->
-
 <h1 align="center">
     Hi, I'm Ajmain <br>
     <img src="assets/hand.gif" width="40"> <br>
@@ -84,10 +80,11 @@ Here are some ideas to get you started:
     - Contribute to Open Source projects!
     - Build a Youtube Browser Extension to manage playlists
 
-<img src="assets/seperator4.gif" width="860">
+<img src="assets/seperator4.gif" width="1000">
+
 <h3 align="center">Check out my repositories!</h3>
 
-
-
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ajmain-Khan&color=581845&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p>
 
