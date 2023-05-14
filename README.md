@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 <img align="left" src="assets/coding.webp" width="200">
 <h2 align="center"> Passionate Aspiring Software Engineer</h2>
 
-<p align="center">
+<!-- <p align="center">
     <b>
         Hey! I'm currently looking for an Internship position! Check out my
         <a href="https://drive.google.com/file/d/1tcKZw6DO7ifCIVrMWJsDt0Q_WyUhB6d9/view?usp=sharing">Resume</a>
     </b>
-</p>
+</p> -->
 
 ##### I like to work with Python, JavaScript, Java, C#, and Vue.js, but thanks to my curiosity I'm always trying new tech stacks. I have strong technical skills and an academic background in computer science topics: object-oriented programming, data structures & algorithms, testing, and automation. Right now I'm exploring front-end technologies, parallel computing, and Machine Learning.
     - 🔭 I’m currently working on a personal project (Vue.js chat webapp)
