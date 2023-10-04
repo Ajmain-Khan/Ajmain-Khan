@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 
 <!-- <p align="center">
     <b>
-        Hey! I'm currently looking for an Internship position! Check out my
+        Hey! I'm currently looking for a New Grad position! Check out my
         <a href="https://drive.google.com/file/d/1tcKZw6DO7ifCIVrMWJsDt0Q_WyUhB6d9/view?usp=sharing">Resume</a>
     </b>
 </p> -->
 
-##### I like to work with Python, JavaScript, Java, C#, and Vue.js, but thanks to my curiosity I'm always trying new tech stacks. I have strong technical skills and an academic background in computer science topics: object-oriented programming, data structures & algorithms, testing, and automation. Right now I'm exploring front-end technologies, parallel computing, and Machine Learning.
-    - 🔭 I’m currently working on a personal project (Vue.js chat webapp)
-    - 🌱 I’m currently studying supervised machine learning
-    - 💻 I plan to learn React and Natural Language Processing
+##### I like to work with Python and Java primarily, as well as frameworks like Vue.js & Flutter, but thanks to my curiosity I'm always trying something new. I have strong technical skills and an academic background in computer science topics: object-oriented programming, data structures & algorithms, testing, and automation.
+    - 🔭 I’m currently working on a cross-platform mobile app in Flutter (Gymbo!)
+    - 🌱 I’m currently studying machine learning
+    - 💻 I plan to learn React and Natural Language Processing next
 
 <img align="left" src="assets/mind.gif" width="50">
 <h1 style="margin-top: 1px;">Tech Stack</h1>
@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 - <b>[Client-Server File Sharing](https://github.com/Ajmain-Khan/Client-Server-File-Sharing-System)</b> — <i>An application for sharing files between a server and client.</i>
 
 ### Mobile Applications
+- **GYMBO** *(Coming soon to Android & iOS)*
 - <b>[NFTPortfolio](https://github.com/Ajmain-Khan/NFTPortfolio)</b> — <i>A cross-platform Android/IOS NFT collection viewing app, written in C# using Xamarin.</i>
 - <b>[AR Shopping](https://github.com/Ajmain-Khan/Augmented-Reality-Shopping-App)</b> — <i>Augmented Reality powered Android shopping app; view digital products in real life.</i>
 
@@ -77,8 +78,9 @@ Here are some ideas to get you started:
 ---
 
 * ### Goals for 2023:
+    - Release my first mobile app
     - Contribute to Open Source projects!
-    - Build a Youtube Browser Extension to manage playlists
+    - More Leetcode!
 
 <img src="assets/seperator4.gif" width="1000">
 
