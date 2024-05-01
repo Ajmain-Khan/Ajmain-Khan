@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     Hi, I'm Ajmain <br>
     <img src="assets/hand.gif" width="40"> <br>
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Oxygen&size=25&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Software+Developer;and+a+student+pursuing+a+bachelors+;in+Computer+Science;Welcome+to+my+GitHub" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Oxygen&size=25&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Software+Developer;and+Computer+Science+graduate;Welcome+to+my+GitHub" alt="Typing SVG"/>
     </a>
 </h1>
 
@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 <img align="left" src="assets/coding.webp" width="200">
 <h2 align="center"> Passionate Aspiring Software Engineer</h2>
 
-<!-- <p align="center">
+ <p align="center">
     <b>
-        Hey! I'm currently looking for a New Grad position! Check out my
-        <a href="https://drive.google.com/file/d/1tcKZw6DO7ifCIVrMWJsDt0Q_WyUhB6d9/view?usp=sharing">Resume</a>
+        Currently seeking New Grad Software roles!
+        <!-- Check out my <a href="https://drive.google.com/file/d/1tcKZw6DO7ifCIVrMWJsDt0Q_WyUhB6d9/view?usp=sharing">Resume</a> -->
     </b>
-</p> -->
+</p> 
 
 ##### I like to work with Python and Java primarily, as well as frameworks like Vue.js & Flutter, but thanks to my curiosity I'm always trying something new. I have strong technical skills and an academic background in computer science topics: object-oriented programming, data structures & algorithms, testing, and automation.
     - 🔭 I’m currently working on a cross-platform mobile app in Flutter (Gymbo!)
