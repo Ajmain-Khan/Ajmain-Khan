@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 </p> 
 
 ##### I like to work with Python and Java primarily, as well as frameworks like Vue.js & Flutter, but thanks to my curiosity I'm always trying something new. I have strong technical skills and an academic background in computer science topics: object-oriented programming, data structures & algorithms, testing, and automation.
-    - 🔭 I’m currently working on a cross-platform mobile app in Flutter (Gymbo!)
+    - 🔭 I’m currently working on a cross-platform mobile app in Flutter
     - 🌱 I’m currently studying machine learning
-    - 💻 I plan to learn React and Natural Language Processing next
+    - 💻 I hope to learn more React and it's ecosystem of frameworks.
 
 <img align="left" src="assets/mind.gif" width="50">
 <h1 style="margin-top: 1px;">Tech Stack</h1>
@@ -77,10 +77,9 @@ Here are some ideas to get you started:
 
 ---
 
-* ### Goals for 2023:
+* ### Goals for 2024:
     - Release my first mobile app
-    - Contribute to Open Source projects!
-    - More Leetcode!
+    - Contribute to an Open Source project!
 
 <img src="assets/seperator4.gif" width="1000">
 
